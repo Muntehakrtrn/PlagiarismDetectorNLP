@@ -1,0 +1,48 @@
+cyber security
+fpga
+vhdl
+artificial intelligence
+computer networks
+signal processing
+robotics
+computer science
+data science
+software engineering
+machine learning
+deep learning
+cloud computing 
+blockchain 
+big data 
+database management
+internet of things 
+operating systems 
+computer graphics
+cryptography
+computer vision
+natural language processing 
+human computer interaction
+robotics
+embedded systems
+parallel computing
+distributed systems
+quantum computing
+bioinformatics 
+software testing 
+mobile computing
+wireless communication
+information security 
+data mining
+computer architecture
+network security
+web development
+game development
+digital forensics
+image processing
+semantic web
+e learning technology
+virtual reality
+augmented reality
+edge computing
+green computing
+agile methodology
+devops
