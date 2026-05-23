@@ -1,4 +1,4 @@
-# Mini İntihal Tespit Yazılımı (PlagiarismDetectorNLP)
+# Mini İntihal Tespit Yazilimi (PlagiarismDetectorNLP)
 
 Bu proje, Doğal Dil İşleme (NLP) tekniklerini kullanarak akademik literatür taraması yapan, internet üzerinden veri toplayan ve metin benzerlik analizi gerçekleştiren modüler bir intihal tespit yazılımıdır.
 
